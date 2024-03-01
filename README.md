@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋</h1>
 <!-- <h3 align="center">A passionate Full Stack Developer</h3> -->
 <p>
-  Hi! I'm <a href="https://mihirkumar.vercel.app/" target="_blank"> Mihir </a>, a passionate full-stack developer and CS student at NIT Jalandhar.  I'm currently interning as a Software Development Engineer at Shorthills AI.
+  Hi! I'm <a href="https://mihirkumar.vercel.app/" target="_blank"> Mihir </a>, a passionate full-stack developer and a student at NIT Jalandhar.  I'm currently interning as a Software Development Engineer at Shorthills AI.
 
 My skills bridge the gap between design and development. I can create user-friendly interfaces with ReactJS, NextJS, and Bootstrap, and build strong back-end solutions using Node.js, Express.js, and Django.
 
