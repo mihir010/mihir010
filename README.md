@@ -21,6 +21,11 @@ I'm a lifelong learner, constantly seeking out new technologies and trends. My s
     <li>API creation</li>
     <li>Debugging</li>
   </ul>
+  -Some of my works:
+  <ul>
+    <li><a href="https://www.thewhiterabbit.in/">The White Rabbit</a></li>
+    <li><a href="https://siriengineering.vercel.app/">Siri Engineering Systems Pvt Ltd</a></li>
+  </ul>
 
 
 <!-- <a href="https://www.leetcode.com/mihir010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mihir010" height="30" width="40" /></a> -->
