@@ -14,6 +14,13 @@ I'm a lifelong learner, constantly seeking out new technologies and trends. My s
 
 - 📫 How to reach me **mihirk3001@gmail.com**
 - Hire me for freelance projects @ <a href="https://mihirkumar.vercel.app/"> Portfolio </a>
+- My services:
+  <ul>
+    <li>Building portfolio websites</li>
+    <li>Full stack web app</li>
+    <li>API creation</li>
+    <li>Debugging</li>
+  </ul>
 
 
 <!-- <a href="https://www.leetcode.com/mihir010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mihir010" height="30" width="40" /></a> -->
