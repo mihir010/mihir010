@@ -21,7 +21,7 @@ I'm a lifelong learner, constantly seeking out new technologies and trends. My s
     <li>API creation</li>
     <li>Debugging</li>
   </ul>
-  -Some of my works:
+-Some of my works:
   <ul>
     <li><a href="https://www.thewhiterabbit.in/">The White Rabbit</a></li>
     <li><a href="https://siriengineering.vercel.app/">Siri Engineering Systems Pvt Ltd</a></li>
