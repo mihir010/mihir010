@@ -23,8 +23,8 @@ I'm a lifelong learner, constantly seeking out new technologies and trends. My s
   </ul>
 - Some of my works:
   <ul>
-    <li><a href="https://www.thewhiterabbit.in/">The White Rabbit</a></li>
-    <li><a href="https://siriengineering.vercel.app/">Siri Engineering Systems Pvt Ltd</a></li>
+    <li><a href="https://www.thewhiterabbit.in/" target="_blank">The White Rabbit</a></li>
+    <li><a href="https://siriengineering.vercel.app/" target="_blank">Siri Engineering Systems Pvt Ltd</a></li>
   </ul>
 
 
