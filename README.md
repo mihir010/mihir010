@@ -17,7 +17,7 @@ I'm a lifelong learner, constantly seeking out new technologies and trends. My s
 - My services:
   <ul>
     <li>Building portfolio websites</li>
-    <li>Full stack web app</li>
+    <li>Developing Full stack web apps</li>
     <li>API creation</li>
     <li>Debugging</li>
   </ul>
