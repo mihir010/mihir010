@@ -18,8 +18,8 @@ I'm a lifelong learner, constantly seeking out new technologies and trends. My s
   <ul>
     <li>Building portfolio websites</li>
     <li>Developing Full stack web apps</li>
-    <li>API creation</li>
-    <li>Debugging</li>
+    <li>GPT chatbots</li>
+    <li>Web Scraping</li>
   </ul>
 - Some of my works:
   <ul>
